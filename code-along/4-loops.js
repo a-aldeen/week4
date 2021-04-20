@@ -13,3 +13,8 @@ console.log(ingredients[6])
 
 // with a loop
 // for (declare a variable for counting ("counter variable"); determine the criteria for the number of times to loop; increment the counter)
+for (let i=0; i< ingredients.length; i++ ) {
+    // this is the code that repeats
+    console.log(ingredients[i])
+
+}
